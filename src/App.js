@@ -10,7 +10,7 @@ const movies = [
   {
     title: 'Movie 1',
     image: require('./Movie1.jpg'), // Replace with actual image path
-    url: 'https://github.com/your-username/your-repository/raw/main/movie1.mp4', // Replace with actual GitHub raw video URL
+    url: 'https://github.com/SimpSid/Movies/blob/main/Superbad.2007.Unrated.BrRip.720p.264.YIFY.mp4', // Replace with actual GitHub raw video URL
   }
   // {
   //   title: 'Movie 2',
