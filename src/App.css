@@ -35,3 +35,11 @@
 }itle {
   margin-top: 10px;
 }
+.background-paper {
+  background-image: url('D:\react-movie-app\src\Shining.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh
+  /* Add other styles as needed */
+}
