@@ -25,9 +25,24 @@ const movies = [
     url: 'https://mega.nz/file/pXMHnIaT#WZTzxk5Dvf0ShNuawd_4ljO1AR67c4JcJHu6NIVF8F0', // Replace with actual GitHub raw video URL
   },
   {
-    title: 'Moneyball',
-    image: require('./MoneyBall.jpg'), // Replace with actual image path
-    url: 'https://mega.nz/file/lK1VmCwA#CAl1SmK4saryR59modqbMRtIf32JMlQnnUGV3jY_5Z0', // Replace with actual GitHub raw video URL
+    title: 'American Psycho',
+    image: require('./AmericanPsycho.jpg'), // Replace with actual image path
+    url: 'https://mega.nz/file/Qa9ADCRa#WkxD7OFI9GBnDcyUkBf4sqxudha49ldUTdkk5i2ouro', // Replace with actual GitHub raw video URL
+  },
+  {
+    title: 'The Taxi Driver',
+    image: require('./TaxiDriver.webp'), // Replace with actual image path
+    url: 'https://mega.nz/file/5OEBDAIR#tvBHXHfKHDCkA7q6ECsL6HHwo8mUi_Bt_yKUsLIFWnA', // Replace with actual GitHub raw video URL
+  },
+  {
+    title: 'Prisoners',
+    image: require('.//Prisoners.jpg'), // Replace with actual image path
+    url: 'https://mega.nz/file/4XtSEBTK#Y3GG2bVqpuEYe9yL5ZhcDjYqVFIzv6D_tUlt1GrXTYo', // Replace with actual GitHub raw video URL
+  },
+  {
+    title: 'The Shining',
+    image: require('./TheShining.jpg'), // Replace with actual image path
+    url: 'https://mega.nz/file/Ae1zjSxR#ox7gSDGaKmQXEDnlQWnOwc9hhGSTompdlwkGJ3DxLV8', // Replace with actual GitHub raw video URL
   },
   {
     title: 'One Flew Over the Cuckoos Nest',
@@ -53,6 +68,11 @@ const movies = [
     title: 'GOOD WILL HUNTING',
     image: require('./goodwillhunting.webp'), // Replace with actual image path
     url: 'https://mega.nz/file/xW0mxRCT#AJ897uoapsnj73Pl5WBW_tuDwychyCQwnxRGeF6X9PA', // Replace with actual GitHub raw video URL
+  },
+  {
+    title: 'Moneyball',
+    image: require('./MoneyBall.jpg'), // Replace with actual image path
+    url: 'https://mega.nz/file/lK1VmCwA#CAl1SmK4saryR59modqbMRtIf32JMlQnnUGV3jY_5Z0', // Replace with actual GitHub raw video URL
   },
   {
     title: 'Superbad',
