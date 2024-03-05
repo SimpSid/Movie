@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/Movie/static/css/main.342cef83.css",
+    "main.css": "/Movie/static/css/main.d784b5c7.css",
     "main.js": "/Movie/static/js/main.45a433c6.js",
     "static/js/453.956c7903.chunk.js": "/Movie/static/js/453.956c7903.chunk.js",
+    "static/media/Shining.jpg": "/Movie/static/media/Shining.954fa2730c48c44c4b65.jpg",
     "static/media/SchndilersList.jpg": "/Movie/static/media/SchndilersList.f5a2975a5111e9e02c9f.jpg",
     "static/media/TheBucketList.jpg": "/Movie/static/media/TheBucketList.0f01b0bac4e0b59554e0.jpg",
     "static/media/logo.svg": "/Movie/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Movie/index.html",
-    "main.342cef83.css.map": "/Movie/static/css/main.342cef83.css.map",
+    "main.d784b5c7.css.map": "/Movie/static/css/main.d784b5c7.css.map",
     "main.45a433c6.js.map": "/Movie/static/js/main.45a433c6.js.map",
     "453.956c7903.chunk.js.map": "/Movie/static/js/453.956c7903.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.342cef83.css",
+    "static/css/main.d784b5c7.css",
     "static/js/main.45a433c6.js"
   ]
 }
