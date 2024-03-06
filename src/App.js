@@ -20,14 +20,19 @@ const movies = [
     url: 'https://mega.nz/file/ZaF3UAIZ#Nl4Y4aGzFHRxBUFa7nFogDMD13q5iyRKWhqXacmFs7Y', // Replace with actual GitHub raw video URL
   },
   {
-    title: 'Oppenheimer',
-    image: require('./Oppenheimer.jpg'), // Replace with actual image path
-    url: 'https://mega.nz/file/pXMHnIaT#WZTzxk5Dvf0ShNuawd_4ljO1AR67c4JcJHu6NIVF8F0', // Replace with actual GitHub raw video URL
-  },
-  {
     title: 'American Psycho',
     image: require('./AmericanPsycho.jpg'), // Replace with actual image path
     url: 'https://mega.nz/file/Qa9ADCRa#WkxD7OFI9GBnDcyUkBf4sqxudha49ldUTdkk5i2ouro', // Replace with actual GitHub raw video URL
+  },
+  {
+    title: 'The Grand Budapest',
+    image: require('./GrandBudapest.jpg'), // Replace with actual image path
+    url: 'https://mega.nz/file/sDF1xTiD#MLU6nrGHzYCnqPCofcpeSoKc-LSzhsaji7Pmophu1Uk', // Replace with actual GitHub raw video URL
+  },
+  {
+    title: 'Gone Girl',
+    image: require('./GoneGirl.jpg'), // Replace with actual image path
+    url: 'https://mega.nz/file/ta0nUITD#Ji45gbNnECDcq7ICKY0Rehp5wkk96AoWWt-kBq6Sx6I', // Replace with actual GitHub raw video URL
   },
   {
     title: 'The Taxi Driver',
@@ -70,6 +75,31 @@ const movies = [
     url: 'https://mega.nz/file/xW0mxRCT#AJ897uoapsnj73Pl5WBW_tuDwychyCQwnxRGeF6X9PA', // Replace with actual GitHub raw video URL
   },
   {
+    title: 'Oppenheimer',
+    image: require('./Oppenheimer.jpg'), // Replace with actual image path
+    url: 'https://mega.nz/file/pXMHnIaT#WZTzxk5Dvf0ShNuawd_4ljO1AR67c4JcJHu6NIVF8F0', // Replace with actual GitHub raw video URL
+  },
+  {
+    title: 'The Big Short',
+    image: require('./BigShort.jpg'), // Replace with actual image path
+    url: 'https://mega.nz/file/1KFV1IzC#daxmsSbGEQ_EcAFn-MeRLueQavLwavEt_CpxmKXvrFY', // Replace with actual GitHub raw video URL
+  },
+  {
+    title: 'Into the Wild',
+    image: require('./IntoTheWild.jpg'), // Replace with actual image path
+    url: 'https://mega.nz/file/NfUnxQ7J#d7LJcJAxJI0LE15gtCqVa4LVuoU6KTcgfZ6aOnXrn4U', // Replace with actual GitHub raw video URL
+  },
+  {
+    title: 'Whiplash',
+    image: require('./Whiplash.jpg'), // Replace with actual image path
+    url: 'https://mega.nz/file/5f1xyTIK#XdIcQJ4IaMs_70PHu4oDVEWm059Z_Qk04QS07VyufY4', // Replace with actual GitHub raw video URL
+  },
+  {
+    title: 'Wolf of Walll Street',
+    image: require('./WolfOfWallStreet.jpg'), // Replace with actual image path
+    url: 'https://mega.nz/file/padyyb6B#M85w9eYgU1LnQowXAS_Kkk6R0cwXX9JumXvhWdWoKA0', // Replace with actual GitHub raw video URL
+  },
+  {
     title: 'Moneyball',
     image: require('./MoneyBall.jpg'), // Replace with actual image path
     url: 'https://mega.nz/file/lK1VmCwA#CAl1SmK4saryR59modqbMRtIf32JMlQnnUGV3jY_5Z0', // Replace with actual GitHub raw video URL
@@ -96,11 +126,13 @@ function App() {
   };
 
   useEffect(() => {
-    // Calculate the background height based on the number of movies
+    // Calculate the background height based on the number of movies and screen height
     const numMovies = filteredMovies.length;
     const minHeight = 1000; // Set a minimum height
-    const calculatedHeight = Math.max(minHeight, numMovies * 150); // Adjust the factor as needed
-
+    const responsiveFactor = window.innerWidth < 600 ? 100 : 120; // Adjust the factor based on screen width
+  
+    const calculatedHeight = Math.max(minHeight, numMovies * responsiveFactor);
+  
     setBackgroundHeight(`${calculatedHeight}px`);
   }, [filteredMovies]);
 
