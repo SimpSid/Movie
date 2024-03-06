@@ -1,14 +1,19 @@
 {
   "files": {
     "main.css": "/Movie/static/css/main.869fff77.css",
-    "main.js": "/Movie/static/js/main.cd7c5600.js",
+    "main.js": "/Movie/static/js/main.1c8bbcd2.js",
     "static/js/453.956c7903.chunk.js": "/Movie/static/js/453.956c7903.chunk.js",
+    "static/media/GrandBudapest.jpg": "/Movie/static/media/GrandBudapest.54604f44fd8462d35ec8.jpg",
     "static/media/SoundOfMetal.jpg": "/Movie/static/media/SoundOfMetal.78f1bed84a5440b247a3.jpg",
+    "static/media/IntoTheWild.jpg": "/Movie/static/media/IntoTheWild.8ba8e67dc97909251aa9.jpg",
     "static/media/MoneyBall.jpg": "/Movie/static/media/MoneyBall.0293f5d30764ab08ca54.jpg",
     "static/media/Prisoners.jpg": "/Movie/static/media/Prisoners.b343546e80aeb1c95582.jpg",
+    "static/media/GoneGirl.jpg": "/Movie/static/media/GoneGirl.aca9355bd1eeaaa1958b.jpg",
+    "static/media/Whiplash.jpg": "/Movie/static/media/Whiplash.285872dc0f7c75e5e617.jpg",
     "static/media/1917.jpg": "/Movie/static/media/1917.62889c9021fd17c58ee0.jpg",
     "static/media/fightclub.png": "/Movie/static/media/fightclub.6caad1c860f6fe538898.png",
     "static/media/Oppenheimer.jpg": "/Movie/static/media/Oppenheimer.99d6882edc5e916dded3.jpg",
+    "static/media/BigShort.jpg": "/Movie/static/media/BigShort.ac103cc4e014962b013f.jpg",
     "static/media/Shining.jpg": "/Movie/static/media/Shining.954fa2730c48c44c4b65.jpg",
     "static/media/AmericanPsycho.jpg": "/Movie/static/media/AmericanPsycho.ab05d5ad0fb89f42b0f8.jpg",
     "static/media/SchndilersList.jpg": "/Movie/static/media/SchndilersList.f5a2975a5111e9e02c9f.jpg",
@@ -16,16 +21,17 @@
     "static/media/goodwillhunting.webp": "/Movie/static/media/goodwillhunting.98eed2970276f8dabcc5.webp",
     "static/media/TaxiDriver.webp": "/Movie/static/media/TaxiDriver.699bcd8ca39336008f9f.webp",
     "static/media/cukkosNest.jpg": "/Movie/static/media/cukkosNest.70bac53e9c12e6f9c3d5.jpg",
+    "static/media/WolfOfWallStreet.jpg": "/Movie/static/media/WolfOfWallStreet.39149181b4494484970c.jpg",
     "static/media/Superbad.jpg": "/Movie/static/media/Superbad.ba30d349378f441a32c8.jpg",
     "static/media/TheShining.jpg": "/Movie/static/media/TheShining.fe55aae77bc5643f8cfc.jpg",
     "static/media/logo.svg": "/Movie/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Movie/index.html",
     "main.869fff77.css.map": "/Movie/static/css/main.869fff77.css.map",
-    "main.cd7c5600.js.map": "/Movie/static/js/main.cd7c5600.js.map",
+    "main.1c8bbcd2.js.map": "/Movie/static/js/main.1c8bbcd2.js.map",
     "453.956c7903.chunk.js.map": "/Movie/static/js/453.956c7903.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.869fff77.css",
-    "static/js/main.cd7c5600.js"
+    "static/js/main.1c8bbcd2.js"
   ]
 }
