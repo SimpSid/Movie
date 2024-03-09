@@ -97,10 +97,36 @@ class Movies {
             url: 'https://mega.nz/file/lK1VmCwA#CAl1SmK4saryR59modqbMRtIf32JMlQnnUGV3jY_5Z0', 
           },
           {
+            title: 'The Departed',
+            image: require('./Departed.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/tTsXETzK#YeW2lGx1jqB7L0LQqpBxDq14arZNoJW6bMLqoB3z6j0', 
+          },
+          {
+            title: '300',
+            image: require('./300.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/sWl23CQb#kSkCTc-7VPtXp-A-48z0qVO04wiV7sGSMHtMaK1Xz6o', 
+          },
+          {
+            title: 'Arrival',
+            image: require('./Arrival.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/UOFwwKJB#c-_QlWBVqPTZLj0x_HnyJ4NcX0wr--vFCLPUc5oVDm8', 
+          },
+          {
+            title: 'Home Alone',
+            image: require('./HomeAlone.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/pDkwxaxI#0fEa5-Sfgy28PKO1QMu5cUA-H3MAYndTUkw3DKTFiqk', 
+          },
+          {
+            title: 'The Dark Knight',
+            image: require('./DarkKnight.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/AaEXgCrJ#qtXz9kVazJqGo-uWL_Wbg0ymJGIuBPQCbEuzqhRYpzk', 
+          },
+          {
             title: 'Superbad',
             image: require('./Superbad.jpg'), // Replace with actual image path
             url: 'https://mega.nz/file/9eFQFQbD#QOZb5EOqNmNZ3_2LtmD2fbYu9SFA59lgVSiQVok2pKY', 
           },
+          
     ];
   
     static playMovie(url) {
