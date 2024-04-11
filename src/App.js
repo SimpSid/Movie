@@ -1,42 +1,59 @@
 import logo from './logo.svg';
 import './App.css';
-import { Container, CssBaseline, Paper, Pagination } from '@mui/material';
+import { Container, CssBaseline, Paper, Pagination, Badge } from '@mui/material';
 import MovieSearch from './MovieSearch.jsx';
 import React, { useState, useEffect } from 'react';
 import Movies from './Movies.jsx';
 
 function App() {
-
   const moviesPerPage = 12;
   const [filteredMovies, setFilteredMovies] = useState(Movies.list);
   const [currentPage, setCurrentPage] = useState(1);
   const [backgroundHeight, setBackgroundHeight] = useState('auto');
+  const [visitorCount, setVisitorCount] = useState(() => {
+    return parseInt(localStorage.getItem('visitorCount')) || 0;
+  });
+
+  useEffect(() => {
+    const isFirstVisit = localStorage.getItem('firstVisit') === null;
+
+    if (isFirstVisit) {
+      setVisitorCount((prevCount) => prevCount + 1);
+      localStorage.setItem('firstVisit', 'true');
+    }
+  }, []);
 
   const handleSearch = (searchTerm) => {
-    // Filter movies based on the search term
     const filtered = Movies.list.filter((movie) =>
       movie.title.toLowerCase().includes(searchTerm.toLowerCase())
     );
 
     setFilteredMovies(filtered);
-    setCurrentPage(1); // Reset to the first page when searching
+    setCurrentPage(1);
+    incrementVisitorCount();
   };
 
   const handlePageChange = (event, page) => {
     setCurrentPage(page);
+    incrementVisitorCount();
+  };
 
-    // Scroll to the top of the screen
-    window.scrollTo({
-      top: 0,
-      behavior: 'smooth', // You can use 'auto' for instant scrolling
+  const handleMovieSelection = () => {
+    incrementVisitorCount();
+  };
+
+  const incrementVisitorCount = () => {
+    setVisitorCount((prevCount) => {
+      const newCount = prevCount + 1;
+      localStorage.setItem('visitorCount', newCount);
+      return newCount;
     });
   };
 
   useEffect(() => {
-    // Calculate the background height based on the number of movies and screen height
     const numMovies = filteredMovies.length;
-    const minHeight = 1000; // Set a minimum height
-    const responsiveFactor = window.innerWidth < 600 ? 120 : 120; // Adjust the factor based on screen width
+    const minHeight = 1000;
+    const responsiveFactor = window.innerWidth < 600 ? 120 : 120;
 
     const calculatedHeight = Math.max(minHeight, moviesPerPage * responsiveFactor);
 
@@ -52,12 +69,16 @@ function App() {
       <Paper elevation={0} className="background-paper" style={{ height: backgroundHeight }}>
         <Container component="main" maxWidth="lg">
           <CssBaseline />
+          
           <header className="App-header">
+          <Badge badgeContent={visitorCount} color="secondary">
+              <span>Viewers</span>
+            </Badge>
             <MovieSearch onSearch={handleSearch} />
           </header>
           <div className="movies-container">
             {currentMovies.map((movie, index) => (
-              <div key={index} className="Movie-container">
+              <div key={index} className="Movie-container" onClick={handleMovieSelection}>
                 <img
                   src={movie.image}
                   className="Movie-image"
