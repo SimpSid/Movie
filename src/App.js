@@ -29,17 +29,15 @@ function App() {
     );
 
     setFilteredMovies(filtered);
-    setCurrentPage(1);
-    incrementVisitorCount();
+    setCurrentPage(1); // Reset to the first page when searching
   };
 
   const handlePageChange = (event, page) => {
     setCurrentPage(page);
-    incrementVisitorCount();
   };
 
   const handleMovieSelection = () => {
-    incrementVisitorCount();
+    incrementVisitorCount(); // Increment visitor count only when a movie is selected
   };
 
   const incrementVisitorCount = () => {
@@ -69,9 +67,8 @@ function App() {
       <Paper elevation={0} className="background-paper" style={{ height: backgroundHeight }}>
         <Container component="main" maxWidth="lg">
           <CssBaseline />
-          
           <header className="App-header">
-          <Badge badgeContent={visitorCount} color="secondary">
+            <Badge badgeContent={visitorCount} color="secondary">
               <span>Viewers</span>
             </Badge>
             <MovieSearch onSearch={handleSearch} />
