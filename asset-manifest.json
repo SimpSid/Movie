@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Movie/static/css/main.6ffebd12.css",
-    "main.js": "/Movie/static/js/main.abf54c24.js",
+    "main.js": "/Movie/static/js/main.7111b09a.js",
     "static/js/453.956c7903.chunk.js": "/Movie/static/js/453.956c7903.chunk.js",
     "static/media/GrandBudapest.jpg": "/Movie/static/media/GrandBudapest.54604f44fd8462d35ec8.jpg",
     "static/media/Departed.jpg": "/Movie/static/media/Departed.2d2e608f83a4f117998a.jpg",
@@ -28,15 +28,16 @@
     "static/media/WolfOfWallStreet.jpg": "/Movie/static/media/WolfOfWallStreet.39149181b4494484970c.jpg",
     "static/media/Superbad.jpg": "/Movie/static/media/Superbad.ba30d349378f441a32c8.jpg",
     "static/media/TheShining.jpg": "/Movie/static/media/TheShining.fe55aae77bc5643f8cfc.jpg",
+    "static/media/OIP.jpg": "/Movie/static/media/OIP.de99f9c9153b16259596.jpg",
     "static/media/300.jpg": "/Movie/static/media/300.3f2ac93ac770a7fc9353.jpg",
     "static/media/logo.svg": "/Movie/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Movie/index.html",
     "main.6ffebd12.css.map": "/Movie/static/css/main.6ffebd12.css.map",
-    "main.abf54c24.js.map": "/Movie/static/js/main.abf54c24.js.map",
+    "main.7111b09a.js.map": "/Movie/static/js/main.7111b09a.js.map",
     "453.956c7903.chunk.js.map": "/Movie/static/js/453.956c7903.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ffebd12.css",
-    "static/js/main.abf54c24.js"
+    "static/js/main.7111b09a.js"
   ]
 }
