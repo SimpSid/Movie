@@ -12,6 +12,11 @@ class Movies {
             url: 'https://mega.nz/file/ZaF3UAIZ#Nl4Y4aGzFHRxBUFa7nFogDMD13q5iyRKWhqXacmFs7Y', 
           },
           {
+            title: 'Life is Beautiful',
+            image: require('./Life is Beautiful.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/ZbUkULSL#INOTGGPHwS2_U8tuMLe-aU3fxghe0o9LJmGmRGWfUPI', 
+          },
+          {
             title: 'American Psycho',
             image: require('./AmericanPsycho.jpg'), // Replace with actual image path
             url: 'https://mega.nz/file/Qa9ADCRa#WkxD7OFI9GBnDcyUkBf4sqxudha49ldUTdkk5i2ouro', 
