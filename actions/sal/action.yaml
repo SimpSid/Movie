@@ -1,0 +1,37 @@
+name: Checkmarx and Sonatype
+description: Submit request for checkmarx and sonatype
+inputs:
+  checkmarx-project-name:
+    required: true
+    description: "Provide the name of the project to be scanned by Checkmarx"
+  deployment-version:
+    required: true
+    description: "Provide the version of the deployment"
+  java-version:
+    required: false
+    default: '17'
+    description: 'Java version'
+  distribution:
+    required: false
+    default: 'temurin'
+    description: 'Java distribution'
+  team-name:
+    required: false
+    description: 'Please provide the team name for Github Action'
+runs:
+  using: "composite"
+  steps:
+    - name: Setup Java for SAL
+      uses: actions/setup-java@v3
+      with:
+        java-version: "${{ inputs.java-version }}"
+        distribution: "${{ inputs.distribution }}"
+    - name: Submit Checkmarx and SonaType Request
+      uses: bby-corp/sal-action@main
+      with:
+        project_name: "${{inputs.checkmarx-project-name}}"
+        version: "${{inputs.deployment-version}}"
+        sal_username: ${{ env.SAL_USERNAME }}
+        sal_password: ${{ env.SAL_PASSWORD }}
+        artifactory_username: ${{ env.CHECKMARX_ARTIFACTORY_USERNAME }}
+        artifactory_password: ${{ env.CHECKMARX_ARTIFACTORY_PASSWORD }}
