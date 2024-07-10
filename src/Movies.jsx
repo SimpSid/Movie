@@ -132,6 +132,16 @@ class Movies {
             url: 'https://mega.nz/file/8ONWzYjI#ojiv7DrmDYYEpWdrop-XrJuz4tjyn-nzUlxJAgAwtL4', 
           },
           {
+            title: 'Dune Part 1',
+            image: require('./Rory_Kurtz_Dune_REG_LARGE_d11245e1-2a0e-4239-b1ef-2caf6b069667.webp'), // Replace with actual image path
+            url: 'https://mega.nz/file/1D9DQLgI#8v_E31UvpBHS-2YJrzsNIQ2-22OiWoSCN7jfOF2Y5ts', 
+          },
+          {
+            title: 'Dune Part 2',
+            image: require('./DUNE-Fan-Poster-LowRes.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/sTM2wQiA#RVAyEhMFkiHBhtwc60BePSRgO7C0yU3U6726seJmdYQ', 
+          },
+          {
             title: 'Superbad',
             image: require('./Superbad.jpg'), // Replace with actual image path
             url: 'https://mega.nz/file/9eFQFQbD#QOZb5EOqNmNZ3_2LtmD2fbYu9SFA59lgVSiQVok2pKY', 
