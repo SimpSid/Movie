@@ -1,12 +1,14 @@
 {
   "files": {
     "main.css": "/Movie/static/css/main.6ffebd12.css",
-    "main.js": "/Movie/static/js/main.0bcd51b9.js",
+    "main.js": "/Movie/static/js/main.4b260455.js",
     "static/js/453.956c7903.chunk.js": "/Movie/static/js/453.956c7903.chunk.js",
     "static/media/GrandBudapest.jpg": "/Movie/static/media/GrandBudapest.54604f44fd8462d35ec8.jpg",
     "static/media/Departed.jpg": "/Movie/static/media/Departed.2d2e608f83a4f117998a.jpg",
     "static/media/SoundOfMetal.jpg": "/Movie/static/media/SoundOfMetal.78f1bed84a5440b247a3.jpg",
     "static/media/DUNE-Fan-Poster-LowRes.jpg": "/Movie/static/media/DUNE-Fan-Poster-LowRes.4dfb8b6130231aef1893.jpg",
+    "static/media/jojo.jpg": "/Movie/static/media/jojo.8f3bec65167453268568.jpg",
+    "static/media/Ford vs Ferrari.webp": "/Movie/static/media/Ford vs Ferrari.93bd29a415b757cf5b53.webp",
     "static/media/Rory_Kurtz_Dune_REG_LARGE_d11245e1-2a0e-4239-b1ef-2caf6b069667.webp": "/Movie/static/media/Rory_Kurtz_Dune_REG_LARGE_d11245e1-2a0e-4239-b1ef-2caf6b069667.cbb43629999a47c5a3e3.webp",
     "static/media/IntoTheWild.jpg": "/Movie/static/media/IntoTheWild.8ba8e67dc97909251aa9.jpg",
     "static/media/MoneyBall.jpg": "/Movie/static/media/MoneyBall.0293f5d30764ab08ca54.jpg",
@@ -18,9 +20,11 @@
     "static/media/fightclub.png": "/Movie/static/media/fightclub.6caad1c860f6fe538898.png",
     "static/media/Oppenheimer.jpg": "/Movie/static/media/Oppenheimer.99d6882edc5e916dded3.jpg",
     "static/media/BigShort.jpg": "/Movie/static/media/BigShort.ac103cc4e014962b013f.jpg",
+    "static/media/Dark Knight Rises.jpg": "/Movie/static/media/Dark Knight Rises.e6f5a08b9563bbb7fae8.jpg",
     "static/media/HomeAlone.jpg": "/Movie/static/media/HomeAlone.5c9444e263e468abb228.jpg",
     "static/media/Shining.jpg": "/Movie/static/media/Shining.954fa2730c48c44c4b65.jpg",
     "static/media/DarkKnight.jpg": "/Movie/static/media/DarkKnight.b6cbab1cb8e39806995a.jpg",
+    "static/media/mann_shawshank-699x1024.jpg": "/Movie/static/media/mann_shawshank-699x1024.5c1764087ed23f738996.jpg",
     "static/media/AmericanPsycho.jpg": "/Movie/static/media/AmericanPsycho.ab05d5ad0fb89f42b0f8.jpg",
     "static/media/Arrival.jpg": "/Movie/static/media/Arrival.ebaf285473eff2fca6e4.jpg",
     "static/media/SchndilersList.jpg": "/Movie/static/media/SchndilersList.f5a2975a5111e9e02c9f.jpg",
@@ -36,11 +40,11 @@
     "static/media/logo.svg": "/Movie/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Movie/index.html",
     "main.6ffebd12.css.map": "/Movie/static/css/main.6ffebd12.css.map",
-    "main.0bcd51b9.js.map": "/Movie/static/js/main.0bcd51b9.js.map",
+    "main.4b260455.js.map": "/Movie/static/js/main.4b260455.js.map",
     "453.956c7903.chunk.js.map": "/Movie/static/js/453.956c7903.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ffebd12.css",
-    "static/js/main.0bcd51b9.js"
+    "static/js/main.4b260455.js"
   ]
 }
