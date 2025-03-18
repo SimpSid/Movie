@@ -127,6 +127,11 @@ class Movies {
             url: 'https://mega.nz/file/AaEXgCrJ#qtXz9kVazJqGo-uWL_Wbg0ymJGIuBPQCbEuzqhRYpzk', 
           },
           {
+            title: 'The Dark Knight Rises',
+            image: require('./Dark Knight Rises.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/xWkVEbCI#8pC7SQTxqTUT3Eu6Mz-BUIWrh8wOQEykxdUBq207fG8', 
+          },
+          {
             title: 'Once Upon a Time in America',
             image: require('./OIP.jpg'), // Replace with actual image path
             url: 'https://mega.nz/file/8ONWzYjI#ojiv7DrmDYYEpWdrop-XrJuz4tjyn-nzUlxJAgAwtL4', 
@@ -140,6 +145,21 @@ class Movies {
             title: 'Dune Part 2',
             image: require('./DUNE-Fan-Poster-LowRes.jpg'), // Replace with actual image path
             url: 'https://mega.nz/file/sTM2wQiA#RVAyEhMFkiHBhtwc60BePSRgO7C0yU3U6726seJmdYQ', 
+          },
+          {
+            title: 'Jojo Rabbit',
+            image: require('./jojo.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/xTE1jYwL#bVt2Bpb0VZFot4hHlb2dJyT_-VkY8LDWyOxub2TI5kA', 
+          },
+          {
+            title: 'The Shaswshank Redemption',
+            image: require('./mann_shawshank-699x1024.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/tHM2zTbT#K5YUYES60kfyDbjY3pMjbLa22fC3-ZPnhbuTRPGGS_U', 
+          },
+          {
+            title: 'Ford vs Ferrari',
+            image: require('./Ford vs Ferrari.webp'), // Replace with actual image path
+            url: 'https://mega.nz/file/1atj2QDQ#_hVhpYk7wwUy2akmc8TyYOlUduNlqXiJ11LuNBVESzU', 
           },
           {
             title: 'Superbad',
