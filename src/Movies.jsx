@@ -162,6 +162,21 @@ class Movies {
             url: 'https://mega.nz/file/1atj2QDQ#_hVhpYk7wwUy2akmc8TyYOlUduNlqXiJ11LuNBVESzU', 
           },
           {
+            title: 'Tenet',
+            image: require('./tenet.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/AGsHFa5A#ugdKaqS6tWLV4FOOkyY3K5Jgp7WMgZEZiXjNjVUnns4', 
+          },
+          {
+            title: 'Parasite',
+            image: require('./Parasite.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/MCFikLjA#Nw7hBm0J-JyDDcCtTf8GgVsiIVsIEJM64t8fnshm8fU', 
+          },
+          {
+            title: 'City of God',
+            image: require('./City of God.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/0b0VgSaR#z5aHPd9Lqel6VtaLyXVnn4HW4YPsPcbyMRFfxJwAAxU', 
+          },
+          {
             title: 'Superbad',
             image: require('./Superbad.jpg'), // Replace with actual image path
             url: 'https://mega.nz/file/9eFQFQbD#QOZb5EOqNmNZ3_2LtmD2fbYu9SFA59lgVSiQVok2pKY', 
