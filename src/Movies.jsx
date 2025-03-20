@@ -177,6 +177,31 @@ class Movies {
             url: 'https://mega.nz/file/0b0VgSaR#z5aHPd9Lqel6VtaLyXVnn4HW4YPsPcbyMRFfxJwAAxU', 
           },
           {
+            title: 'Shutter Island',
+            image: require('./shutter island.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/20QG3TyL#yO-NjRh_H8jiqjusYs5c_YSaBkTqsN15-sttsLPg6WI', 
+          },
+          {
+            title: 'Donnie Darko',
+            image: require('./darko.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/70QgBTRQ#E19D-SVxvVFwdbbKaZitRZ-o1XTJRS4tSVChhNT7DAs', 
+          },
+          {
+            title: 'Donnie Brasco',
+            image: require('./donnie-brasco.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/a0QzmQzC#J-KSZzCiZka_dhcWx14-5yim1w81ceYhKsGYYymOykY', 
+          },
+          {
+            title: 'Oldboy',
+            image: require('./oldboy.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/WggXVSRT#DsXpyJzcRS3OZqmtJneAFDsqVaiMtJdLM06Y5y7ib1k', 
+          },
+          {
+            title: 'Insomnia',
+            image: require('./insomnia.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/fxIHnTTK#5U0A_isTI6w3FrtSRsdYt1O_felR1SjV5XinGY3SH-Q', 
+          },
+          {
             title: 'Superbad',
             image: require('./Superbad.jpg'), // Replace with actual image path
             url: 'https://mega.nz/file/9eFQFQbD#QOZb5EOqNmNZ3_2LtmD2fbYu9SFA59lgVSiQVok2pKY', 
