@@ -202,6 +202,11 @@ class Movies {
             url: 'https://mega.nz/file/fxIHnTTK#5U0A_isTI6w3FrtSRsdYt1O_felR1SjV5XinGY3SH-Q', 
           },
           {
+            title: 'Kingdom of Heaven',
+            image: require('./KOH.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/f5oWXJKA#Fm9VShROL6my00eBIldNhcSs93OoYxtZzuVqzCtnz4A', 
+          },
+          {
             title: 'Superbad',
             image: require('./Superbad.jpg'), // Replace with actual image path
             url: 'https://mega.nz/file/9eFQFQbD#QOZb5EOqNmNZ3_2LtmD2fbYu9SFA59lgVSiQVok2pKY', 
