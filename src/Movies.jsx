@@ -202,6 +202,16 @@ class Movies {
             url: 'https://mega.nz/file/fxIHnTTK#5U0A_isTI6w3FrtSRsdYt1O_felR1SjV5XinGY3SH-Q', 
           },
           {
+            title: 'Fast & Furious (2001)',
+            image: require('./Fast&Furious1.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/DhwjkJqb#QSPLXicLobIhsXCdglRwr2fr8i3c0lCfNSeh7YIuy8E', 
+          },
+          {
+            title: 'Fast 5',
+            image: require('./Fast5.jpg'), // Replace with actual image path
+            url: '', 
+          },
+          {
             title: 'Kingdom of Heaven',
             image: require('./KOH.jpg'), // Replace with actual image path
             url: 'https://mega.nz/file/f5oWXJKA#Fm9VShROL6my00eBIldNhcSs93OoYxtZzuVqzCtnz4A', 
