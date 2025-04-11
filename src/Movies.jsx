@@ -7,6 +7,16 @@ class Movies {
             url: 'https://mega.nz/file/VT8TCKiK#KyB51V9-SlkNZ9zH_KA4htTQQ8JhxxZGaAInfUqQW_w', 
           },
           {
+            title: 'The Godfather',
+            image: require('./The Godfather.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/7dkyWRYI#31SbCx0vUftE89O1mzAbfmnuptFmST9DFzGiQEVwPGY', 
+          },
+          {
+            title: 'The Prestige',
+            image: require('./The-Prestige-Movie-Poster.avif'), // Replace with actual image path
+            url: 'https://mega.nz/file/eQFhDDbR#9SkRVFe8TKlKNTGOSUmoSyJE8BgEPiNhXUEUQKdczck', 
+          },
+          {
             title: 'The Bucket List',
             image: require('./TheBucketList.jpg'), // Replace with actual image path
             url: 'https://mega.nz/file/ZaF3UAIZ#Nl4Y4aGzFHRxBUFa7nFogDMD13q5iyRKWhqXacmFs7Y', 
@@ -209,7 +219,42 @@ class Movies {
           {
             title: 'Fast 5',
             image: require('./Fast5.jpg'), // Replace with actual image path
-            url: '', 
+            url: 'https://mega.nz/file/Hd9h2RZT#KT7vVlonqsi4gk4OtSOTvzGg-_0-u-1nNcSwe-baOC0', 
+          },
+          {
+            title: 'The Matrix',
+            image: require('./Matrix.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/i9JUXaSZ#XFVVwjT7UbOxErzbNABtpkdFRAdcb_Nh2MUYhYUO8gk', 
+          },
+          {
+            title: 'Pulp Fiction',
+            image: require('./PulpFiction.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/fBUyTJiL#F8q1GSmnHe8Km0wypzcFapAVREK5H5OQqryLRCRGa_k', 
+          },
+          {
+            title: 'Se7en',
+            image: require('./Se7en.webp'), // Replace with actual image path
+            url: 'https://mega.nz/file/GFdCAajZ#ScNkxXylCtrXIhOFUBPnotaDQeUMGv1meSg-Dr3UGTE', 
+          },
+          {
+            title: 'ToyStory',
+            image: require('./ToyStory.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/SFFwWTiT#80wvffv_3sp_GI3qdIu6Pf4xdDzsNPH9CSx4HX6fdMc', 
+          },
+          {
+            title: 'The Silence of the Lambs',
+            image: require('./TSL.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/bEVXRaqD#Qo3lE96DSGma9TmeswDOb-ys3-wt5D6Y32Vxk2inSug', 
+          },
+          {
+            title: 'The Usual Suspects',
+            image: require('./TUS.avif'), // Replace with actual image path
+            url: 'https://mega.nz/file/iJs1BT4Q#BMEnlPattzF2Xu-WWRu18k6vyfBfNcN7PbRGdEFb-n0', 
+          },
+          {
+            title: 'Forrest Gump',
+            image: require('./forreast-gump-film-cover.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/vdEjDLaZ#ke3dpfy81qwvU0xsNrw9DY21piG1XH_6ufT8el_OVOo', 
           },
           {
             title: 'Kingdom of Heaven',
