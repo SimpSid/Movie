@@ -85,7 +85,7 @@ const MusicPlayer = () => {
   };
 
   return (
-    <div style={{ position: 'Absolute', top: 30, right: 985, zIndex: 1000, background: 'transparent', padding: '0.5rem', borderRadius: '4px', boxShadow: '0 0 8px rgba(0,0,0,0.2)' }}>
+    <div style={{ position: 'Absolute', top: 30, left: 60, zIndex: 1000, background: 'transparent', padding: '0.5rem', borderRadius: '4px', boxShadow: '0 0 8px rgba(0,0,0,0.2)' }}>
       <p style={{ margin: 0, fontSize: 15 }}><strong>Now Playing:</strong> {tracks[currentTrackIndex].title}</p>
       <button onClick={prevTrack}>⏮️</button>
       <button onClick={nextTrack}>⏭️</button>
