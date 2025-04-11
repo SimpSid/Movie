@@ -5,7 +5,7 @@ import MovieSearch from './MovieSearch.jsx';
 import React, { useState, useEffect } from 'react';
 import Movies from './Movies.jsx';
 import MusicPlayer from './MusicPlayer';
-
+import { AnimatePresence, motion } from 'framer-motion'; // ✨ Add framer-motion
 
 function App() {
   const moviesPerPage = 12;
@@ -56,7 +56,6 @@ function App() {
     const responsiveFactor = window.innerWidth < 600 ? 120 : 120;
 
     const calculatedHeight = Math.max(minHeight, moviesPerPage * responsiveFactor);
-
     setBackgroundHeight(`${calculatedHeight}px`);
   }, [filteredMovies]);
 
@@ -76,19 +75,31 @@ function App() {
             </Badge>
             <MovieSearch onSearch={handleSearch} />
           </header>
-          <div className="movies-container">
-            {currentMovies.map((movie, index) => (
-              <div key={index} className="Movie-container" onClick={handleMovieSelection}>
-                <img
-                  src={movie.image}
-                  className="Movie-image"
-                  alt={movie.title}
-                  onClick={() => Movies.playMovie(movie.url)}
-                />
-                <p className="Movie-title">{movie.title}</p>
-              </div>
-            ))}
-          </div>
+
+          {/* ✨ Animated Movies List */}
+          <AnimatePresence mode="wait">
+            <motion.div
+              key={currentPage}
+              className="movies-container"
+              initial={{ opacity: 0, x: 50 }}
+              animate={{ opacity: 1, x: 0 }}
+              exit={{ opacity: 0, x: -50 }}
+              transition={{ duration: 0.4 }}
+            >
+              {currentMovies.map((movie, index) => (
+                <div key={index} className="Movie-container" onClick={handleMovieSelection}>
+                  <img
+                    src={movie.image}
+                    className="Movie-image"
+                    alt={movie.title}
+                    onClick={() => Movies.playMovie(movie.url)}
+                  />
+                  <p className="Movie-title">{movie.title}</p>
+                </div>
+              ))}
+            </motion.div>
+          </AnimatePresence>
+
           <div className="pagination-container">
             <Pagination
               count={Math.ceil(filteredMovies.length / moviesPerPage)}
