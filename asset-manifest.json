@@ -1,18 +1,21 @@
 {
   "files": {
     "main.css": "/Movie/static/css/main.6ffebd12.css",
-    "main.js": "/Movie/static/js/main.65418021.js",
+    "main.js": "/Movie/static/js/main.b34ccd05.js",
     "static/js/453.956c7903.chunk.js": "/Movie/static/js/453.956c7903.chunk.js",
     "static/media/Fast&Furious1.jpg": "/Movie/static/media/Fast&Furious1.321be0239732acb0e0cd.jpg",
     "static/media/darko.jpg": "/Movie/static/media/darko.f9839398749931c17013.jpg",
     "static/media/GrandBudapest.jpg": "/Movie/static/media/GrandBudapest.54604f44fd8462d35ec8.jpg",
+    "static/media/forreast-gump-film-cover.jpg": "/Movie/static/media/forreast-gump-film-cover.aa3a740842ae5606c81f.jpg",
     "static/media/Departed.jpg": "/Movie/static/media/Departed.2d2e608f83a4f117998a.jpg",
+    "static/media/PulpFiction.jpg": "/Movie/static/media/PulpFiction.9e342561558c8ea1642c.jpg",
     "static/media/oldboy.jpg": "/Movie/static/media/oldboy.b3abbda6599c833b4d2e.jpg",
     "static/media/SoundOfMetal.jpg": "/Movie/static/media/SoundOfMetal.78f1bed84a5440b247a3.jpg",
     "static/media/DUNE-Fan-Poster-LowRes.jpg": "/Movie/static/media/DUNE-Fan-Poster-LowRes.4dfb8b6130231aef1893.jpg",
     "static/media/jojo.jpg": "/Movie/static/media/jojo.8f3bec65167453268568.jpg",
     "static/media/Ford vs Ferrari.webp": "/Movie/static/media/Ford vs Ferrari.93bd29a415b757cf5b53.webp",
     "static/media/KOH.jpg": "/Movie/static/media/KOH.d29452f344808a53a510.jpg",
+    "static/media/Matrix.jpg": "/Movie/static/media/Matrix.d1b77d775faa3cf0315b.jpg",
     "static/media/tenet.jpg": "/Movie/static/media/tenet.4c76ca63923044e06041.jpg",
     "static/media/Rory_Kurtz_Dune_REG_LARGE_d11245e1-2a0e-4239-b1ef-2caf6b069667.webp": "/Movie/static/media/Rory_Kurtz_Dune_REG_LARGE_d11245e1-2a0e-4239-b1ef-2caf6b069667.cbb43629999a47c5a3e3.webp",
     "static/media/City of God.jpg": "/Movie/static/media/City of God.2bc1be9c8f135eca7e4a.jpg",
@@ -24,8 +27,11 @@
     "static/media/donnie-brasco.jpg": "/Movie/static/media/donnie-brasco.4f9e6c0fc67ece05e5ea.jpg",
     "static/media/Whiplash.jpg": "/Movie/static/media/Whiplash.285872dc0f7c75e5e617.jpg",
     "static/media/1917.jpg": "/Movie/static/media/1917.62889c9021fd17c58ee0.jpg",
+    "static/media/TSL.jpg": "/Movie/static/media/TSL.258311f368ec0356f4ac.jpg",
     "static/media/fightclub.png": "/Movie/static/media/fightclub.6caad1c860f6fe538898.png",
     "static/media/Oppenheimer.jpg": "/Movie/static/media/Oppenheimer.99d6882edc5e916dded3.jpg",
+    "static/media/The Godfather.jpg": "/Movie/static/media/The Godfather.46c19c6350af6659da25.jpg",
+    "static/media/ToyStory.jpg": "/Movie/static/media/ToyStory.bbae67a0994061079bcd.jpg",
     "static/media/BigShort.jpg": "/Movie/static/media/BigShort.ac103cc4e014962b013f.jpg",
     "static/media/Dark Knight Rises.jpg": "/Movie/static/media/Dark Knight Rises.e6f5a08b9563bbb7fae8.jpg",
     "static/media/Parasite.jpg": "/Movie/static/media/Parasite.2df262bfaa8cfc2c65ec.jpg",
@@ -34,6 +40,7 @@
     "static/media/shutter island.jpg": "/Movie/static/media/shutter island.a1e6a137960fbf98d598.jpg",
     "static/media/Shining.jpg": "/Movie/static/media/Shining.954fa2730c48c44c4b65.jpg",
     "static/media/DarkKnight.jpg": "/Movie/static/media/DarkKnight.b6cbab1cb8e39806995a.jpg",
+    "static/media/The-Prestige-Movie-Poster.avif": "/Movie/static/media/The-Prestige-Movie-Poster.8f39680392360947e40c.avif",
     "static/media/mann_shawshank-699x1024.jpg": "/Movie/static/media/mann_shawshank-699x1024.5c1764087ed23f738996.jpg",
     "static/media/AmericanPsycho.jpg": "/Movie/static/media/AmericanPsycho.ab05d5ad0fb89f42b0f8.jpg",
     "static/media/Arrival.jpg": "/Movie/static/media/Arrival.ebaf285473eff2fca6e4.jpg",
@@ -41,7 +48,9 @@
     "static/media/TheBucketList.jpg": "/Movie/static/media/TheBucketList.0f01b0bac4e0b59554e0.jpg",
     "static/media/goodwillhunting.webp": "/Movie/static/media/goodwillhunting.98eed2970276f8dabcc5.webp",
     "static/media/Fast5.jpg": "/Movie/static/media/Fast5.ff7c1164c6747a87daf4.jpg",
+    "static/media/TUS.avif": "/Movie/static/media/TUS.d9e9596926b40ebea01a.avif",
     "static/media/TaxiDriver.webp": "/Movie/static/media/TaxiDriver.699bcd8ca39336008f9f.webp",
+    "static/media/Se7en.webp": "/Movie/static/media/Se7en.2d368ed698a5bde364af.webp",
     "static/media/cukkosNest.jpg": "/Movie/static/media/cukkosNest.70bac53e9c12e6f9c3d5.jpg",
     "static/media/WolfOfWallStreet.jpg": "/Movie/static/media/WolfOfWallStreet.39149181b4494484970c.jpg",
     "static/media/Superbad.jpg": "/Movie/static/media/Superbad.ba30d349378f441a32c8.jpg",
@@ -51,11 +60,11 @@
     "static/media/logo.svg": "/Movie/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Movie/index.html",
     "main.6ffebd12.css.map": "/Movie/static/css/main.6ffebd12.css.map",
-    "main.65418021.js.map": "/Movie/static/js/main.65418021.js.map",
+    "main.b34ccd05.js.map": "/Movie/static/js/main.b34ccd05.js.map",
     "453.956c7903.chunk.js.map": "/Movie/static/js/453.956c7903.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ffebd12.css",
-    "static/js/main.65418021.js"
+    "static/js/main.b34ccd05.js"
   ]
 }
