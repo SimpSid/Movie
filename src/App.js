@@ -4,6 +4,8 @@ import { Container, CssBaseline, Paper, Pagination, Badge } from '@mui/material'
 import MovieSearch from './MovieSearch.jsx';
 import React, { useState, useEffect } from 'react';
 import Movies from './Movies.jsx';
+import MusicPlayer from './MusicPlayer';
+
 
 function App() {
   const moviesPerPage = 12;
@@ -64,6 +66,7 @@ function App() {
 
   return (
     <div className="App">
+      <MusicPlayer />
       <Paper elevation={0} className="background-paper" style={{ height: backgroundHeight }}>
         <Container component="main" maxWidth="lg">
           <CssBaseline />
