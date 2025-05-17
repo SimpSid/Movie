@@ -3,14 +3,26 @@
 }
 
 .background-paper {
-  background-image: url('D:\react-movie-app\src\Shining.jpg');
-  background-size: cover;
-  background-position: center;
+  position: relative;
+  background-size: 110% auto;
+  background-position: 0% 0%;
   background-repeat: no-repeat;
-  height: 200vh;
   background-attachment: fixed;
-  margin-top: 0px;
-  /* Add other styles as needed */
+  margin-top: 0;
+  animation: tiltPan 18s ease-in-out infinite;
+  transition: background-image 1s ease-in-out;
+}
+
+@keyframes tiltPan {
+  0% {
+    background-position: 0% 0%;
+  }
+  50% {
+    background-position: 100% 100%;
+  }
+  100% {
+    background-position: 0% 0%;
+  }
 }
 
 .App-header {
@@ -19,7 +31,6 @@
   align-items: flex-end;
   margin-right: 0px;
   padding: 35px;
- 
 }
 
 .movies-container {
@@ -46,11 +57,12 @@
 
 .Movie-title {
   margin-top: 10px;
+  color: #cea426;
+  font-family: 'Dancing Script', cursive;
 }
 .pagination-container {
   display: flex;
   justify-content: flex-end;
-  margin-top: 20px; /* Adjust the margin as needed */
+  margin-top: 20px;
   padding-right: 60px;
-  
 }
