@@ -1,13 +1,26 @@
 {
   "files": {
-    "main.css": "/Movie/static/css/main.6ffebd12.css",
-    "main.js": "/Movie/static/js/main.f8c0042a.js",
+    "main.css": "/Movie/static/css/main.722fe198.css",
+    "main.js": "/Movie/static/js/main.894a5b66.js",
+    "reactPlayerPreview.js": "/Movie/static/js/reactPlayerPreview.3cf2f084.chunk.js",
     "static/js/453.956c7903.chunk.js": "/Movie/static/js/453.956c7903.chunk.js",
+    "static/media/star-wars-the-rise-of-skywalker-2019-4k-mz.jpg": "/Movie/static/media/star-wars-the-rise-of-skywalker-2019-4k-mz.fd2f02d1cb0b2c3944c3.jpg",
+    "static/media/godzilla-king-of-the-monsters-4k-2019-ol.jpg": "/Movie/static/media/godzilla-king-of-the-monsters-4k-2019-ol.e0465dee369a6162ce72.jpg",
+    "static/media/wonder-woman-stands-tall-zz.jpg": "/Movie/static/media/wonder-woman-stands-tall-zz.fe1358eb0a523e31a16c.jpg",
+    "static/media/justice-league-characters-poster-4k-gj.jpg": "/Movie/static/media/justice-league-characters-poster-4k-gj.407d860e1183449fbe94.jpg",
+    "static/media/margot-robbie-as-harley-quinn-4k.jpg": "/Movie/static/media/margot-robbie-as-harley-quinn-4k.1997e11db21ff1b4496c.jpg",
+    "static/media/Maverick.jpg": "/Movie/static/media/Maverick.87700c1f74a4fdbf01e6.jpg",
+    "static/media/aquaman-movie-4k-ug.jpg": "/Movie/static/media/aquaman-movie-4k-ug.afe9f3e518cf48c6d345.jpg",
+    "static/media/joker-hands-up-4k-y6.jpg": "/Movie/static/media/joker-hands-up-4k-y6.6eb489e35cf26ac4e0ff.jpg",
+    "static/media/deadpool-2-poster-2018-movie-xt.jpg": "/Movie/static/media/deadpool-2-poster-2018-movie-xt.7613298cbebbb660c5c5.jpg",
     "static/media/Fast&Furious1.jpg": "/Movie/static/media/Fast&Furious1.321be0239732acb0e0cd.jpg",
     "static/media/darko.jpg": "/Movie/static/media/darko.f9839398749931c17013.jpg",
     "static/media/GrandBudapest.jpg": "/Movie/static/media/GrandBudapest.54604f44fd8462d35ec8.jpg",
     "static/media/forreast-gump-film-cover.jpg": "/Movie/static/media/forreast-gump-film-cover.aa3a740842ae5606c81f.jpg",
+    "static/media/godzilla-king-of-the-monsters-2019-th.jpg": "/Movie/static/media/godzilla-king-of-the-monsters-2019-th.e3cfa9eedfae433b36ed.jpg",
+    "static/media/joker-movie-6u.jpg": "/Movie/static/media/joker-movie-6u.5d7685e1858ab48f6b84.jpg",
     "static/media/Departed.jpg": "/Movie/static/media/Departed.2d2e608f83a4f117998a.jpg",
+    "static/media/2017-blade-runner-2049-movie-4k-de.jpg": "/Movie/static/media/2017-blade-runner-2049-movie-4k-de.c4bec1338318a2cecc71.jpg",
     "static/media/PulpFiction.jpg": "/Movie/static/media/PulpFiction.9e342561558c8ea1642c.jpg",
     "static/media/oldboy.jpg": "/Movie/static/media/oldboy.b3abbda6599c833b4d2e.jpg",
     "static/media/SoundOfMetal.jpg": "/Movie/static/media/SoundOfMetal.78f1bed84a5440b247a3.jpg",
@@ -57,14 +70,14 @@
     "static/media/TheShining.jpg": "/Movie/static/media/TheShining.fe55aae77bc5643f8cfc.jpg",
     "static/media/OIP.jpg": "/Movie/static/media/OIP.de99f9c9153b16259596.jpg",
     "static/media/300.jpg": "/Movie/static/media/300.3f2ac93ac770a7fc9353.jpg",
-    "static/media/logo.svg": "/Movie/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Movie/index.html",
-    "main.6ffebd12.css.map": "/Movie/static/css/main.6ffebd12.css.map",
-    "main.f8c0042a.js.map": "/Movie/static/js/main.f8c0042a.js.map",
+    "main.722fe198.css.map": "/Movie/static/css/main.722fe198.css.map",
+    "main.894a5b66.js.map": "/Movie/static/js/main.894a5b66.js.map",
+    "reactPlayerPreview.3cf2f084.chunk.js.map": "/Movie/static/js/reactPlayerPreview.3cf2f084.chunk.js.map",
     "453.956c7903.chunk.js.map": "/Movie/static/js/453.956c7903.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ffebd12.css",
-    "static/js/main.f8c0042a.js"
+    "static/css/main.722fe198.css",
+    "static/js/main.894a5b66.js"
   ]
 }
