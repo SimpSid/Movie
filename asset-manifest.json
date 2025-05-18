@@ -1,17 +1,27 @@
 {
   "files": {
     "main.css": "/Movie/static/css/main.722fe198.css",
-    "main.js": "/Movie/static/js/main.894a5b66.js",
+    "main.js": "/Movie/static/js/main.c4d5cb76.js",
     "reactPlayerPreview.js": "/Movie/static/js/reactPlayerPreview.3cf2f084.chunk.js",
     "static/js/453.956c7903.chunk.js": "/Movie/static/js/453.956c7903.chunk.js",
+    "static/media/no-time-to-die-ana-de-armas-8k-kr.jpg": "/Movie/static/media/no-time-to-die-ana-de-armas-8k-kr.152f9c07fa68d9a31236.jpg",
+    "static/media/bumblebee-movie-8k-movie-ib.jpg": "/Movie/static/media/bumblebee-movie-8k-movie-ib.45a7ff2936f1513b2e14.jpg",
+    "static/media/avengers-infinity-war-2018-10k-poster-yp.jpg": "/Movie/static/media/avengers-infinity-war-2018-10k-poster-yp.69d40593407760be8fe1.jpg",
+    "static/media/2023-spider-man-across-the-spider-verse-chinese-poster-sp.jpg": "/Movie/static/media/2023-spider-man-across-the-spider-verse-chinese-poster-sp.e6d1ff75ad3e4550981c.jpg",
+    "static/media/marvel-deadpool-and-wolverine-8k-yv.jpg": "/Movie/static/media/marvel-deadpool-and-wolverine-8k-yv.9214285ac472b94d2027.jpg",
     "static/media/star-wars-the-rise-of-skywalker-2019-4k-mz.jpg": "/Movie/static/media/star-wars-the-rise-of-skywalker-2019-4k-mz.fd2f02d1cb0b2c3944c3.jpg",
+    "static/media/baby-groot-and-rocket-raccoon-guardians-of-the-galaxy-vol-2-4k-8k-qhd.jpg": "/Movie/static/media/baby-groot-and-rocket-raccoon-guardians-of-the-galaxy-vol-2-4k-8k-qhd.755e896de60b0197126c.jpg",
     "static/media/godzilla-king-of-the-monsters-4k-2019-ol.jpg": "/Movie/static/media/godzilla-king-of-the-monsters-4k-2019-ol.e0465dee369a6162ce72.jpg",
     "static/media/wonder-woman-stands-tall-zz.jpg": "/Movie/static/media/wonder-woman-stands-tall-zz.fe1358eb0a523e31a16c.jpg",
+    "static/media/vader-star-wars-5k-39.jpg": "/Movie/static/media/vader-star-wars-5k-39.850b1116f4264e809d75.jpg",
     "static/media/justice-league-characters-poster-4k-gj.jpg": "/Movie/static/media/justice-league-characters-poster-4k-gj.407d860e1183449fbe94.jpg",
     "static/media/margot-robbie-as-harley-quinn-4k.jpg": "/Movie/static/media/margot-robbie-as-harley-quinn-4k.1997e11db21ff1b4496c.jpg",
+    "static/media/ana-de-armas-no-time-to-die-portrait-4k-3c.jpg": "/Movie/static/media/ana-de-armas-no-time-to-die-portrait-4k-3c.642917554467324fca4b.jpg",
     "static/media/Maverick.jpg": "/Movie/static/media/Maverick.87700c1f74a4fdbf01e6.jpg",
     "static/media/aquaman-movie-4k-ug.jpg": "/Movie/static/media/aquaman-movie-4k-ug.afe9f3e518cf48c6d345.jpg",
     "static/media/joker-hands-up-4k-y6.jpg": "/Movie/static/media/joker-hands-up-4k-y6.6eb489e35cf26ac4e0ff.jpg",
+    "static/media/transformers-the-last-knight-2017-movie-4k-sd.jpg": "/Movie/static/media/transformers-the-last-knight-2017-movie-4k-sd.ddfbec654c38518604d2.jpg",
+    "static/media/2020-john-wick-dog-4k-k7.jpg": "/Movie/static/media/2020-john-wick-dog-4k-k7.713bf4a9e7989be48d6c.jpg",
     "static/media/deadpool-2-poster-2018-movie-xt.jpg": "/Movie/static/media/deadpool-2-poster-2018-movie-xt.7613298cbebbb660c5c5.jpg",
     "static/media/Fast&Furious1.jpg": "/Movie/static/media/Fast&Furious1.321be0239732acb0e0cd.jpg",
     "static/media/darko.jpg": "/Movie/static/media/darko.f9839398749931c17013.jpg",
@@ -28,6 +38,7 @@
     "static/media/jojo.jpg": "/Movie/static/media/jojo.8f3bec65167453268568.jpg",
     "static/media/Ford vs Ferrari.webp": "/Movie/static/media/Ford vs Ferrari.93bd29a415b757cf5b53.webp",
     "static/media/KOH.jpg": "/Movie/static/media/KOH.d29452f344808a53a510.jpg",
+    "static/media/PerfectDays.jpg": "/Movie/static/media/PerfectDays.0fd0bd56a9988969f159.jpg",
     "static/media/Matrix.jpg": "/Movie/static/media/Matrix.d1b77d775faa3cf0315b.jpg",
     "static/media/tenet.jpg": "/Movie/static/media/tenet.4c76ca63923044e06041.jpg",
     "static/media/Rory_Kurtz_Dune_REG_LARGE_d11245e1-2a0e-4239-b1ef-2caf6b069667.webp": "/Movie/static/media/Rory_Kurtz_Dune_REG_LARGE_d11245e1-2a0e-4239-b1ef-2caf6b069667.cbb43629999a47c5a3e3.webp",
@@ -36,6 +47,7 @@
     "static/media/MoneyBall.jpg": "/Movie/static/media/MoneyBall.0293f5d30764ab08ca54.jpg",
     "static/media/Life is Beautiful.jpg": "/Movie/static/media/Life is Beautiful.247cde88af585c8f8d46.jpg",
     "static/media/Prisoners.jpg": "/Movie/static/media/Prisoners.b343546e80aeb1c95582.jpg",
+    "static/media/BladeRunner.jpg": "/Movie/static/media/BladeRunner.157a16f1d4891d16e4a8.jpg",
     "static/media/GoneGirl.jpg": "/Movie/static/media/GoneGirl.aca9355bd1eeaaa1958b.jpg",
     "static/media/donnie-brasco.jpg": "/Movie/static/media/donnie-brasco.4f9e6c0fc67ece05e5ea.jpg",
     "static/media/Whiplash.jpg": "/Movie/static/media/Whiplash.285872dc0f7c75e5e617.jpg",
@@ -56,6 +68,7 @@
     "static/media/The-Prestige-Movie-Poster.avif": "/Movie/static/media/The-Prestige-Movie-Poster.8f39680392360947e40c.avif",
     "static/media/mann_shawshank-699x1024.jpg": "/Movie/static/media/mann_shawshank-699x1024.5c1764087ed23f738996.jpg",
     "static/media/AmericanPsycho.jpg": "/Movie/static/media/AmericanPsycho.ab05d5ad0fb89f42b0f8.jpg",
+    "static/media/TopGun.jpg": "/Movie/static/media/TopGun.c245f3cc39065497367f.jpg",
     "static/media/Arrival.jpg": "/Movie/static/media/Arrival.ebaf285473eff2fca6e4.jpg",
     "static/media/SchndilersList.jpg": "/Movie/static/media/SchndilersList.f5a2975a5111e9e02c9f.jpg",
     "static/media/TheBucketList.jpg": "/Movie/static/media/TheBucketList.0f01b0bac4e0b59554e0.jpg",
@@ -72,12 +85,12 @@
     "static/media/300.jpg": "/Movie/static/media/300.3f2ac93ac770a7fc9353.jpg",
     "index.html": "/Movie/index.html",
     "main.722fe198.css.map": "/Movie/static/css/main.722fe198.css.map",
-    "main.894a5b66.js.map": "/Movie/static/js/main.894a5b66.js.map",
+    "main.c4d5cb76.js.map": "/Movie/static/js/main.c4d5cb76.js.map",
     "reactPlayerPreview.3cf2f084.chunk.js.map": "/Movie/static/js/reactPlayerPreview.3cf2f084.chunk.js.map",
     "453.956c7903.chunk.js.map": "/Movie/static/js/453.956c7903.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.722fe198.css",
-    "static/js/main.894a5b66.js"
+    "static/js/main.c4d5cb76.js"
   ]
 }
