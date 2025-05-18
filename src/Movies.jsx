@@ -261,6 +261,21 @@ class Movies {
             image: require('./KOH.jpg'), // Replace with actual image path
             url: 'https://mega.nz/file/f5oWXJKA#Fm9VShROL6my00eBIldNhcSs93OoYxtZzuVqzCtnz4A', 
           },
+           {
+            title: 'Top Gun - Maverick',
+            image: require('./TopGun.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/4UBSFLxZ#OTbasU3_1TxbA7vdG-fA0lVVR54L8AbHUACiXuyxkfI', 
+          },
+           {
+            title: 'Perfect Days',
+            image: require('./PerfectDays.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/YZhxjLjS#H0GlYj7iQC_RFz0mjkkO1Aaa5nNe_xRek3lGLtkRY6s', 
+          },
+           {
+            title: 'Blade Runner 2049',
+            image: require('./BladeRunner.jpg'), // Replace with actual image path
+            url: 'https://mega.nz/file/UQQEDIDZ#7xfgc36zYlI_UVrq1wMxmWM_DVkyQ_TnQejouBtBdjs', 
+          },
           {
             title: 'Superbad',
             image: require('./Superbad.jpg'), // Replace with actual image path

@@ -10,6 +10,15 @@ const tracks = [
   },
   {
     url: 'https://soundcloud.com/atlanticrecords/christina-perri-a-thousand?si=9a45e17349de4018bb3ca4ad026b790a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing'
+  },
+  {
+    url: 'https://soundcloud.com/edwards-music/swae-lee?si=535a7fcd919d4a669629cdd9920e9a1d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing'
+  },
+  {
+    url: 'https://soundcloud.com/cigarettesaftersex/heavenly-1?in=cigarettesaftersex/sets/cry&si=cebf2c6b75054f8bbaa30ee5da6c7732&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing'
+  },
+  {
+    url: 'https://soundcloud.com/aligatie/its-you?si=e7d6bb499d6f496b888af77d6cef198a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing'
   }
 ];
 
