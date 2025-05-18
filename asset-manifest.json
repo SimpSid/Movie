@@ -1,12 +1,11 @@
 {
   "files": {
     "main.css": "/Movie/static/css/main.722fe198.css",
-    "main.js": "/Movie/static/js/main.c4d5cb76.js",
+    "main.js": "/Movie/static/js/main.c8366272.js",
     "reactPlayerPreview.js": "/Movie/static/js/reactPlayerPreview.3cf2f084.chunk.js",
     "static/js/453.956c7903.chunk.js": "/Movie/static/js/453.956c7903.chunk.js",
     "static/media/no-time-to-die-ana-de-armas-8k-kr.jpg": "/Movie/static/media/no-time-to-die-ana-de-armas-8k-kr.152f9c07fa68d9a31236.jpg",
     "static/media/bumblebee-movie-8k-movie-ib.jpg": "/Movie/static/media/bumblebee-movie-8k-movie-ib.45a7ff2936f1513b2e14.jpg",
-    "static/media/avengers-infinity-war-2018-10k-poster-yp.jpg": "/Movie/static/media/avengers-infinity-war-2018-10k-poster-yp.69d40593407760be8fe1.jpg",
     "static/media/2023-spider-man-across-the-spider-verse-chinese-poster-sp.jpg": "/Movie/static/media/2023-spider-man-across-the-spider-verse-chinese-poster-sp.e6d1ff75ad3e4550981c.jpg",
     "static/media/marvel-deadpool-and-wolverine-8k-yv.jpg": "/Movie/static/media/marvel-deadpool-and-wolverine-8k-yv.9214285ac472b94d2027.jpg",
     "static/media/star-wars-the-rise-of-skywalker-2019-4k-mz.jpg": "/Movie/static/media/star-wars-the-rise-of-skywalker-2019-4k-mz.fd2f02d1cb0b2c3944c3.jpg",
@@ -85,12 +84,12 @@
     "static/media/300.jpg": "/Movie/static/media/300.3f2ac93ac770a7fc9353.jpg",
     "index.html": "/Movie/index.html",
     "main.722fe198.css.map": "/Movie/static/css/main.722fe198.css.map",
-    "main.c4d5cb76.js.map": "/Movie/static/js/main.c4d5cb76.js.map",
+    "main.c8366272.js.map": "/Movie/static/js/main.c8366272.js.map",
     "reactPlayerPreview.3cf2f084.chunk.js.map": "/Movie/static/js/reactPlayerPreview.3cf2f084.chunk.js.map",
     "453.956c7903.chunk.js.map": "/Movie/static/js/453.956c7903.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.722fe198.css",
-    "static/js/main.c4d5cb76.js"
+    "static/js/main.c8366272.js"
   ]
 }
