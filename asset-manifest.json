@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Movie/static/css/main.722fe198.css",
-    "main.js": "/Movie/static/js/main.c8366272.js",
+    "main.js": "/Movie/static/js/main.d4a443ff.js",
     "reactPlayerPreview.js": "/Movie/static/js/reactPlayerPreview.3cf2f084.chunk.js",
     "static/js/453.956c7903.chunk.js": "/Movie/static/js/453.956c7903.chunk.js",
     "static/media/no-time-to-die-ana-de-armas-8k-kr.jpg": "/Movie/static/media/no-time-to-die-ana-de-armas-8k-kr.152f9c07fa68d9a31236.jpg",
@@ -84,12 +84,12 @@
     "static/media/300.jpg": "/Movie/static/media/300.3f2ac93ac770a7fc9353.jpg",
     "index.html": "/Movie/index.html",
     "main.722fe198.css.map": "/Movie/static/css/main.722fe198.css.map",
-    "main.c8366272.js.map": "/Movie/static/js/main.c8366272.js.map",
+    "main.d4a443ff.js.map": "/Movie/static/js/main.d4a443ff.js.map",
     "reactPlayerPreview.3cf2f084.chunk.js.map": "/Movie/static/js/reactPlayerPreview.3cf2f084.chunk.js.map",
     "453.956c7903.chunk.js.map": "/Movie/static/js/453.956c7903.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.722fe198.css",
-    "static/js/main.c8366272.js"
+    "static/js/main.d4a443ff.js"
   ]
 }
