@@ -70,7 +70,7 @@ function App() {
         setCurrentBackgroundIndex(nextIndex);
         setFadeBackground(null);
       }, 2000); // 2s fade duration matches CSS transition
-    }, 400000); // 15 seconds per your existing interval
+    }, 100000); // 1 minute per your existing interval
 
     return () => {
       clearInterval(interval);
